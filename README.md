@@ -1,1 +1,1 @@
-# Delta-robot-with-magnetic-gripperhg
+# Delta-robot-with-magnetic-gripper
